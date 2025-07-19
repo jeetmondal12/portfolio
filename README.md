@@ -14,7 +14,6 @@ Welcome to my **personal developer portfolio website**! This project is a showca
 ---
 
 ## 📁 Project Structure 
-## 📁 Project Structure
 
 ```
 portfolio/
